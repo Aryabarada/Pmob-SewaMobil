@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rental Mobil</string>
+    <string name="Maps"><a href="https://maps.app.goo.gl/bX3vndfAwSVJSZg66">Maps</a></string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
